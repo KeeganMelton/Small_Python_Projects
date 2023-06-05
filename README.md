@@ -1,4 +1,4 @@
-<h3> Small_Python_Projects </h3>
+<h1> Small_Python_Projects </h1>
 
 Here are a few small python programs that I've written while going through the Udemy class "100 Days of Code: The Complete Python Pro Bootcamp for 2023" to learn more about python.
 <h2>Environment:</h2>
